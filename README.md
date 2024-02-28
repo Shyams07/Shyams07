@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Shyam S</h1>
+<h1 align="center">Hi 👋, I'm Shyam </h1>
 <h3 align="center">Web developer & DSA problem solving</h3>
 
 - 🌱 I’m currently learning **Backend, AWS**
