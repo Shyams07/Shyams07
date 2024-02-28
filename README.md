@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **mshyams930@gmail.com**
 
-- ⚡ Fun fact **I do pencil sketch**
+- ⚡ Fun fact **I love coding**
 
 <p align="left">
 </p>
