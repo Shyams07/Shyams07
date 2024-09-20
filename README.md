@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Shyam </h1>
 <h3 align="center">Web developer & DSA problem solving</h3>
 
-- 💬 Ask me about **Reactjs, React-native, DSA problems**
+- 💬 Ask me about **Reactjs, Angular, Spring boot DSA problems**
 
 - 📫 How to reach me **mshyams930@gmail.com**
 
