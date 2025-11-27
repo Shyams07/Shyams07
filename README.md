@@ -1,11 +1,9 @@
 <h1 align="center">Hi 👋, I'm Shyam </h1>
-<h3 align="center">Web developer & DSA problem solving</h3>
+<h3 align="center">Java Backend developer</h3>
 
 - 💬 Ask me about **Angular, Spring boot & DSA problems**
 
 - 📫 How to reach me **mshyams930@gmail.com**
-
-- ⚡ Fun fact **I do pencil sketch**
 
 <p align="left">
 </p>
